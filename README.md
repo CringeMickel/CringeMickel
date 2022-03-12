@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CringeMickel
+- 👀 I’m interested in science
+- 🌱 I’m currently learning Python, C++, HTML
